@@ -59,12 +59,12 @@
     <a href="https://github.com/JasonBoyett/terminal-background-tool">GitHub</a>
   </p>
 
-  <h2>Goproject Init</h2>
+  <h2>Salvo Load Tester</h2>
   <p>
-    Goproject Init is a command line tool that I developed to help quickly create new
-    Go projects. <break />
-    It is a simple tool that creates a new "Hello World" Go project with a basic
-    file structure. <break />
+    Salvo is an open source load testing tool I am currently developing.
+    <break />
+    It is designed to be easy to extend and easy to create language specific SDKs for.
+    <break />
     It's available on my
     <a href="https://github.com/JasonBoyett/goproject_init">GitHub</a>
   </p>

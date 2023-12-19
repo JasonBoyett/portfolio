@@ -12,7 +12,7 @@
 
   <h2>Email: Jason.Boyett@gmail.com</h2>
 
-  <h2>Discord: JasonB#1857</h2>
+  <h2>Discord: jabthedevboy</h2>
   
   <h2>Reach out on <a href='https://www.linkedin.com/in/jason-boyett-b39a1b268/'>LinkedIn</a></h2>
 
