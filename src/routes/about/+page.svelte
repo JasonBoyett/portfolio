@@ -66,7 +66,7 @@
     It is designed to be easy to extend and easy to create language specific SDKs for.
     <break />
     It's available on my
-    <a href="https://github.com/JasonBoyett/goproject_init">GitHub</a>
+    <a href="https://github.com/JasonBoyett/Slavo">GitHub</a>
   </p>
 </div>
 
