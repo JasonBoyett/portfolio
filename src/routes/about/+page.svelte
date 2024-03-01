@@ -79,7 +79,7 @@
     <break />
     Goethe.nvim also keeps a history of the color schemes that the user has used
     <break />
-    allows the user to easily switch between them.
+    allows them to easily switch between them.
     <break />
     It's available on my
     <a href="https://github.com/JasonBoyett/Goethe.nvim">GitHub</a>
