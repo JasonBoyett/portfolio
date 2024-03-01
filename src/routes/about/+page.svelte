@@ -68,6 +68,22 @@
     It's available on my
     <a href="https://github.com/JasonBoyett/Salvo">GitHub</a>
   </p>
+
+  <h2>Goethe.nvim</h2>
+  <p>
+    Goethe.nvim is a neovim plugin designed to allow users to easily change
+    <break />
+    their neovim color scheme from inside their editor and have the change 
+    <break />
+    persist across sessions.
+    <break />
+    Goethe.nvim also keeps a history of the color schemes that the user has used
+    <break />
+    allows the user to easily switch between them.
+    <break />
+    It's available on my
+    <a href="https://github.com/JasonBoyett/Goethe.nvim">GitHub</a>
+  </p>
 </div>
 
 <style>
